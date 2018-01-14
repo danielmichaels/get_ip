@@ -2,7 +2,7 @@
 Using an API get the interfaces external IP address.
 
 ## What
-Using the ['https://api.ipify.org'](ipify) API this script will with the help
+Using the ('https://api.ipify.org')[ipify] API this script will with the help
 of the `requests` library pull in the interfaces external IP address. 
 
 Additionally, it will create a CSV file with the IP address and DateTime that
