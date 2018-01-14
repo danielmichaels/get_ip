@@ -11,7 +11,6 @@ def main():
     ip = get_ip()
     time = get_time()
     make_csv(ip, time)
-    send_email()
 
 
 def get_ip():
